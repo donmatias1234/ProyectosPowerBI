@@ -1,0 +1,10 @@
+# ProyectosPowerBI
+En este repositorios se encuentran algunos reportes en PBI que realice en mi curso y otros adicionales
+
+https://app.powerbi.com/view?r=eyJrIjoiY2NhOTk1ZGMtNzZjMS00NmRhLWJkZTgtZWU2MjIzOWYwMTc0IiwidCI6ImVkZmUyZmUzLTM0ZmQtNDUxZC1iNTMwLTdkODVmODk0ZjI0NSJ9&pageName=ReportSection
+
+https://app.powerbi.com/view?r=eyJrIjoiYjQ4YjI4ZGUtYTIwNS00NDQ4LWFhYjYtZDI1ZWI4YTM5ZmM5IiwidCI6ImVkZmUyZmUzLTM0ZmQtNDUxZC1iNTMwLTdkODVmODk0ZjI0NSJ9&pageName=ReportSectiona132214973719acadb63
+
+https://app.powerbi.com/view?r=eyJrIjoiOGExOGRlZjQtZTQwYi00NTJkLThlOWMtYjNhNmM0YjRjZmZkIiwidCI6ImVkZmUyZmUzLTM0ZmQtNDUxZC1iNTMwLTdkODVmODk0ZjI0NSJ9&pageName=ReportSectionc9ff761acfa605c4a716
+
+https://app.powerbi.com/view?r=eyJrIjoiYTZkNDIzYmEtZjJiNy00NjkxLThhMTctNWM0MGU1MzY5OGEzIiwidCI6ImVkZmUyZmUzLTM0ZmQtNDUxZC1iNTMwLTdkODVmODk0ZjI0NSJ9&pageName=ReportSection6dd08f9590169a043495
